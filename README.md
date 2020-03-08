@@ -23,7 +23,7 @@ Each month has 30 days
 A year has 360 days
 
 - Formulas:
-Initial Annuity (Borrower Payment Amount): http://www.iotafinance.com/en/Formula-Loan-Annuity.html
+Initial Annuity (Borrower Payment Amount): http://financeformulas.net/Annuity_Payment_Formula.html
 Interest = ( (Nominal-Rate * Days in Month * Initial Outstanding Principal) / Days in Year ) / 100
 Principal = Annuity - Interest (If the calculated principal amount exceeds the initial outstanding principal amount, take initial initial outstanding principal amount instead.)
 Borrower Payment Amount (Annuity) = Principal + Interest
